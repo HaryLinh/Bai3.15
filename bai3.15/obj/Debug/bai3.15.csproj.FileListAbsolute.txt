@@ -1,0 +1,7 @@
+C:\Users\Anhli\source\repos\bai3.15\bai3.15\bin\Debug\bai3.15.exe.config
+C:\Users\Anhli\source\repos\bai3.15\bai3.15\bin\Debug\bai3.15.exe
+C:\Users\Anhli\source\repos\bai3.15\bai3.15\bin\Debug\bai3.15.pdb
+C:\Users\Anhli\source\repos\bai3.15\bai3.15\obj\Debug\bai3.15.csprojAssemblyReference.cache
+C:\Users\Anhli\source\repos\bai3.15\bai3.15\obj\Debug\bai3.15.csproj.CoreCompileInputs.cache
+C:\Users\Anhli\source\repos\bai3.15\bai3.15\obj\Debug\bai3.15.exe
+C:\Users\Anhli\source\repos\bai3.15\bai3.15\obj\Debug\bai3.15.pdb
